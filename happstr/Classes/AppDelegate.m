@@ -76,7 +76,7 @@
     self.viewController = [[[MainViewController alloc] init] autorelease];
     self.viewController.useSplashScreen = YES;
     self.viewController.wwwFolderName = @"www";
-    self.viewController.startPage = @"index.html";
+    self.viewController.startPage = @"beta.html";
     self.viewController.view.frame = viewBounds;
     
     // over-ride delegates
