@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'happstr' target in the 'happstr' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
