@@ -1,0 +1,11 @@
+Installation:
+
+Install xcode from the app store
+
+git clone git@github.com:happstr/happstr-ios.git
+cd happstr-ios
+git submodule init
+git submodule update
+
+open happstr.xcodeproj in xcode
+click run on the lift top corner and it should start the working simulator
